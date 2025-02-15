@@ -1,10 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 import { setAllSidebars } from '../tools/autoSidebar'
-import { onlyTest } from 'fans-tools-for-vitepress';
 
-
-console.log(onlyTest);
 
 
 // https://vitepress.dev/reference/site-config
