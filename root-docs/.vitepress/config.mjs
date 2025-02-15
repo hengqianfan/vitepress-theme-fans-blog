@@ -8,6 +8,7 @@ import { setAllSidebars } from '../tools/autoSidebar'
 export default defineConfig({
   title: "数码佩奇",
   description: "数码博客",
+  base: '/vitepress-theme-fans-blog/',
 
   themeConfig: {
     logo: '/icon/logo.png',
